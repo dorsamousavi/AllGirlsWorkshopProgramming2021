@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0D5D0EF1-5046-4796-8528-14D02B364227}|Default">
+  <MonoDevelop.Ide.ItemProperties.AllGirlsWorkshopsProgramming2021 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AllGirlsWorkshopsProgramming2021/ElevatorStateMachine.cs">
+    <Files>
+      <File FileName="AllGirlsWorkshopsProgramming2021/ElevatorStateMachine.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
